@@ -146,6 +146,9 @@ h2{
     background-repeat: no-repeat;
     background-position: 250px 60px;
 }
+.work-inquiry{
+    margin-top: 20px;
+}
 .contact-area h2{
     color: #fff;
     font-size: 64px;
@@ -167,10 +170,24 @@ h2{
     margin-top: 114px;
     margin-left: 393px; 
 }
-.work-inquiry{
-    margin-top: 20px;
+.social-media{
+    margin-top: 130px;
+    text-align: center
 }
-/* .contact-area img{
-    max-width: 60%;
-    height: 190px;
-} */
+.social-media h3{
+    font-family: 'Bebas Neue', cursive;
+    size: 24px;
+    color: #696871;
+}
+.social-media p{
+    font-family: 'Roboto', sans-serif;
+    color: #363958;
+    font-size: 34px;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.social-media .icons img{
+    height: 40px;
+    width: 40px;
+}
